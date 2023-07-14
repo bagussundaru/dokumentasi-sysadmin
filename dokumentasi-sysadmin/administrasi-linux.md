@@ -1,5 +1,7 @@
 # ADMINISTRASI LINUX
 
+<figure><img src="../.gitbook/assets/hirarki-file-sistem-linux (1).jpg" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:yellow;">**/**</mark> Merupakan direktori induk dari semua sub direktori yang ada dan berfungsi sebagai root directory.
 
 &#x20;<mark style="color:yellow;">**/bin**</mark> Direktori ini berisi Command Linux yang sering kita gunakan dan bisa digunakan oleh setiap user.&#x20;
