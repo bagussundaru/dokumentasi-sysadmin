@@ -10,3 +10,4 @@
   * [ADMINISTRASI USER DAN GROUP](dokumentasi-sysadmin/administrasi-user-dan-group.md)
   * [Maintenance Log File](dokumentasi-sysadmin/maintenance-log-file.md)
   * [Network Bonding](dokumentasi-sysadmin/network-bonding.md)
+* [CHMOD & CHOWN](chmod-and-chown.md)
